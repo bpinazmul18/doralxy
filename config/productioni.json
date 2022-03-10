@@ -1,0 +1,6 @@
+{
+    "name" : "Doralxy --Production",
+    "mail" : {
+        "host" : "prod-mail-server"
+    }
+}
